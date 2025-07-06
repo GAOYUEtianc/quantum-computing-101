@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs and outputs
+*.log
+*.out
+
+# OS files
+.DS_Store
