@@ -6,3 +6,5 @@ jupyter
 tqdm
 gymnasium
 torch
+qiskit
+qiskit-aer
